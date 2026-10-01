@@ -2,8 +2,7 @@
 
 A three-zone enterprise network built from scratch in Cisco Packet Tracer: a public-facing DMZ, a trusted internal network split into three VLANs, and a Cisco ASA firewall enforcing trust boundaries between them.
 
-![Topology overview](./screenshots/topology-overview.png)
-<!-- Replace with your clean final topology screenshot -->
+Cisco Packet Tracer - C__Users_phang_Cisco Packet Tracer 9.0.1_saves_dmz-enterprise-network-lab.pkt 2026_09_27 15_35_07
 
 ## Why this project
 
